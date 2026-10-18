@@ -1,1 +1,2 @@
 Este sitio fue creado con el solo y único propósito de ser presentado para una materia del bachillerato. No quiero que sea una página que se tome muy seriamente, pues no es nada más que un proyecto amateur.
+Ruta Segura se trata de un proyecto el cual busca facilitar los reportes de los siguientes problemas en específico, en la ciudad de Playa del Carmen: Baches, falta de alumbrado, banquetas obstruidas, señalizaciones dañadas, o también te da la opción de poner y describir algún otro problema.
