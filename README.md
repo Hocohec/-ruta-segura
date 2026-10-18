@@ -1,0 +1,1 @@
+Este sitio fue creado con el solo y único propósito de ser presentado para una materia del bachillerato. No quiero que sea una página que se tome muy seriamente, pues no es nada más que un proyecto amateur.
